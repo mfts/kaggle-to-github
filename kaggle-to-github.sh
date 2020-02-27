@@ -3,8 +3,8 @@ NEW_INPUT=./kaggle/input
 KERNEL=$1
 DATASET=$2
 REPO=$3
-GITHUB_USERNAME=$(git config user.name)
-KAGGLE_USERNAME=torabshaikh
+GITHUB_USERNAME=mfts
+KAGGLE_USERNAME=mftsio
 echo "Kernel: " $KERNEL
 echo "Dataset: " $DATASET
 echo "Repo: " $REPO
